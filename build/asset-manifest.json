@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hclvoicetotextreactproject/static/css/main.a2ea9617.css",
+    "main.js": "/Hclvoicetotextreactproject/static/js/main.96741d27.js",
+    "static/js/787.252c5a3f.chunk.js": "/Hclvoicetotextreactproject/static/js/787.252c5a3f.chunk.js",
+    "index.html": "/Hclvoicetotextreactproject/index.html",
+    "main.a2ea9617.css.map": "/Hclvoicetotextreactproject/static/css/main.a2ea9617.css.map",
+    "main.96741d27.js.map": "/Hclvoicetotextreactproject/static/js/main.96741d27.js.map",
+    "787.252c5a3f.chunk.js.map": "/Hclvoicetotextreactproject/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ea9617.css",
+    "static/js/main.96741d27.js"
+  ]
+}
